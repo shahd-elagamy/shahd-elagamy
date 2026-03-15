@@ -1,4 +1,6 @@
-![Animated Text](text.gif)
+<p align="left">
+  <img src="text.gif" alt="Animated Text" width="300" height="300">
+</p>
 
 ## Hi, I'm Shahd Mohamed Elagamy.
 **Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University**
