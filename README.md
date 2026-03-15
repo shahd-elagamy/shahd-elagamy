@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="text.gif" alt="Animated Text" width="600" height="600">
+  <img src="text.gif" alt="Animated Text" width="400" height="400">
 </p>
 
 ## Hi, I'm Shahd Mohamed Elagamy.
