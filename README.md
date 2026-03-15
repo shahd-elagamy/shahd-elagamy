@@ -1,53 +1,50 @@
-# Shahd Elagamy
+# ![Shahd Elagamy](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University
+**Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University**
 
 I am an AI engineer with strong experience in building intelligent systems and deploying machine learning solutions in real-world applications.  
 My work focuses on computer vision, AI-driven platforms, and accessible technologies that help solve practical problems.
 
+---
+
 ## Expertise
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision (Object Detection & Image Analysis)
-- Deep Learning Models
-- Backend Development with Django
-- Database Design (PostgreSQL)
-- AI System Integration
-- Technical Instruction and Simplifying Complex Concepts
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-Advanced-green?style=for-the-badge&logo=django)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-orange?style=for-the-badge&logo=opencv)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-red?style=for-the-badge&logo=tensorflow)
+
+---
 
 ## Selected Projects
 
 **Tamkeen – AI-Powered Educational Platform**  
-An inclusive learning platform designed for people with disabilities.  
-Key features include AI-powered recommendations, voice-assisted navigation, speech-to-text, text-to-speech, and accessibility-focused interface design.
+Inclusive learning platform for people with disabilities. Features AI recommendations, voice-assisted navigation, speech-to-text, text-to-speech, and accessibility-focused design.
 
 **Real-Time Smart Parking System**  
-Developed a real-time parking detection system using YOLOv11 and OpenCV for identifying available parking spaces from camera feeds.
+Real-time parking detection using YOLOv11 & OpenCV to identify available parking spaces from camera feeds.
+
+---
 
 ## Technical Skills
 
-**Programming:**  
-Python
+**Programming:** Python  
+**Frameworks & Tools:** Django, OpenCV, Transformers, REST APIs  
+**AI & Data:** Machine Learning, Deep Learning, Computer Vision, Recommendation Systems  
+**Databases:** PostgreSQL  
 
-**Frameworks & Tools:**  
-Django, OpenCV, Transformers, REST APIs
-
-**AI & Data:**  
-Machine Learning, Deep Learning, Computer Vision, Recommendation Systems
-
-**Databases:**  
-PostgreSQL
+---
 
 ## Teaching & Communication
 
-- Explaining technical and AI concepts in a clear and simplified way
-- Teaching programming and AI fundamentals
-- Creating structured learning content for beginners
+- Explaining technical and AI concepts clearly  
+- Teaching programming & AI fundamentals  
+- Creating structured learning content for beginners  
+
+---
 
 ## Contact
 
-LinkedIn  
-https://www.linkedin.com/in/shahd-elagamy-5085ab24a/
-
-Email  
-s.m.elmohamady@gmail.com
+[LinkedIn](https://www.linkedin.com/in/shahd-elagamy-5085ab24a/)  
+Email: s.m.elmohamady@gmail.com
