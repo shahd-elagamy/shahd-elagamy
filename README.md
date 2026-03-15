@@ -1,4 +1,3 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)
 **Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University**
 
 I am an AI engineer with strong experience in building intelligent systems and deploying machine learning solutions in real-world applications.  
