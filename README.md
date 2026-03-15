@@ -1,3 +1,4 @@
+![Animated Text](main/text.gif)
 **Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University**
 
 I am an AI engineer with strong experience in building intelligent systems and deploying machine learning solutions in real-world applications.  
