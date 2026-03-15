@@ -1,4 +1,6 @@
-![Animated Text](main/text.gif)
+![Animated Text](text.gif)
+
+## Hi, I'm Shahd Mohamed Elagamy.
 **Artificial Intelligence Engineer | Faculty of Artificial Intelligence, Kafr El-Sheikh University**
 
 I am an AI engineer with strong experience in building intelligent systems and deploying machine learning solutions in real-world applications.  
@@ -8,12 +10,11 @@ My work focuses on computer vision, AI-driven platforms, and accessible technolo
 
 ## Expertise
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-Advanced-green?style=for-the-badge&logo=django)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-orange?style=for-the-badge&logo=opencv)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue?style=for-the-badge&logo=postgresql)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-red?style=for-the-badge&logo=tensorflow)
-
+![Python](https://img.shields.io/badge/Python-Expert-7FDBFF?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Advanced-FFC1CC?style=for-the-badge&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-F5F5DC?style=for-the-badge&logo=opencv&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-C39BD3?style=for-the-badge&logo=postgresql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Expert-FFE4B5?style=for-the-badge&logo=tensorflow&logoColor=black)
 ---
 
 ## Selected Projects
